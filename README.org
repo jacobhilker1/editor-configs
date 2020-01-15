@@ -1,0 +1,11 @@
+* editor-configs
+These are a collection of different editor configurations for Vim and emacs. 
+
+* Installation :TOC:
+- [[#editor-configs][editor-configs]]
+- [[#notes][Notes]]
+  - [[#emacs-notes][Emacs Notes]]
+
+* Notes :TOC_2:
+** Emacs Notes 
+   1) For JMacs, my personal configuration, you will need to manually install the =toc-org= package. I haven't figured out why it is that it isn't installing.
